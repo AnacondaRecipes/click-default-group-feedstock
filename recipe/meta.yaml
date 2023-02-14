@@ -41,7 +41,9 @@ about:
     Extends click.Group to invoke a command without explicit subcommand name.
     DefaultGroup is a sub class of click.Group. But it invokes a default subcommand 
     instead of showing a help message when a subcommand is not passed.
-
+  dev_url: https://github.com/click-contrib/click-default-group
+  doc_url: https://github.com/click-contrib/click-default-group
+  
 extra:
   recipe-maintainers:
     - ericmjl
